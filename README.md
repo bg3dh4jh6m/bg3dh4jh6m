@@ -1,8 +1,14 @@
 # NIKOLAY (NIK) NENKOV
 
-### Tutor + Developer + Consultant
+### Senior Software & Business Systems Consultant | Java/Spring, Integrations & Technical Delivery | Founder, Greenwall Business Systems
 
-This is not a CV and it is not a sales page. It is a personal record of my relationship with computers, learning, sharing knowledge and the people I met along the way.
+I combine hands-on backend and full-stack delivery with business analysis, systems integration and technical direction. My work spans Java and Spring, React, TypeScript and SCSS, APIs, data, automated testing, cloud delivery and production diagnostics.
+
+I collaborate directly with business owners, managers, operations, product and design, sales and marketing, suppliers and engineering teams—turning operational needs into clear technical decisions and maintainable software.
+
+[Greenwall Business Systems](https://greenwallbusiness.com/) · [Work & Case Studies](https://greenwallbusiness.com/case-studies/) · [LinkedIn](https://www.linkedin.com/in/bg3dh4jh6m/) · [Official CV](https://docs.google.com/document/d/e/2PACX-1vST3UglmEsgl2SYctLW2VFs_vrJQ7D4ftVcLq7DklI_CmNSgNn1UicfV5AfvSVL2ataOO5l0K5y-15Y/pub) · [XING](https://www.xing.com/profile/Nik_Nenkov091625/web_profiles) · [Jobicy](https://jobicy.com/u/id76953)
+
+This is not a CV or a corporate brochure. It is also a personal record of my relationship with computers, learning, sharing knowledge and the people I met along the way.
 
 <p align="center">
   <img src="./assets/presentation-classroom-original.jpg" alt="Nik presenting beside a real classroom screen" width="880">
@@ -28,21 +34,21 @@ I earned some of my first money by helping people understand and solve coursewor
 
 I am not only someone who tutors. I also have more than eight years of hands-on experience across large international organisations, cross-border product teams, major enterprise systems and several advanced startups. I intentionally leave employer, client and product names out of this profile.
 
-Most of that work has involved backend and full-stack developing, APIs, integrations, databases and distributed systems. Software testing, data security and the reliability of data moving between systems have always interested me. MQTT is a good example: I used it in three real projects, two of them in substantial client environments.
+Most of that work has involved backend and full-stack development, APIs, integrations, databases and distributed systems. I have worked across Java/Spring services and React, TypeScript and SCSS interfaces while staying close to requirements, testing, delivery and production diagnosis. Software testing, data security and the reliability of data moving between systems have always interested me. MQTT is a good example: I used it in three real projects, two of them in substantial client environments.
 
 I do not claim formal academic or pedagogical titles. **Tutor + Developer + Consultant** is the description that feels honest to me.
 
-For the structured professional record, I keep a separate [official CV](https://docs.google.com/document/d/e/2PACX-1vST3UglmEsgl2SYctLW2VFs_vrJQ7D4ftVcLq7DklI_CmNSgNn1UicfV5AfvSVL2ataOO5l0K5y-15Y/pub). It is intentionally not repeated on this personal page.
+The structured professional record is available through the official CV linked above. It is intentionally not repeated on this personal page.
 
 <p align="center">
   <img src="./assets/presentation-javafx-original.jpg" alt="Nik during a real JavaFX and Spring presentation" width="880">
 </p>
 
-## What changed
+## Personal note
 
-In recent years I have become tired of the work itself. I now write very little code by hand because AI has changed how I approach it. I no longer feel the old desire to spend evenings reading technical material, learning one more framework or playing games. I also question what purpose tutoring should have when AI can explain and generate so much instantly.
+AI has changed how I explore ideas and build software, but curiosity, careful judgment and helping people understand difficult subjects still matter to me. I value tools that create more room for thoughtful work, useful collaboration and learning.
 
-What I want most now is simpler: time with friends, walking, and being out in nature. That is also part of my story with technology—not a polished conclusion, just where I am today.
+Outside technology, I value time with friends, walking and being out in nature. That remains part of my story too—not a polished conclusion, simply a more complete picture of the person behind the repositories.
 
 ## Tutoring repositories
 
