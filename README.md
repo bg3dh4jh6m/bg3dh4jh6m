@@ -32,7 +32,7 @@ Most of that work has involved backend and full-stack developing, APIs, integrat
 
 I do not claim formal academic or pedagogical titles. **Tutor + Developer + Consultant** is the description that feels honest to me.
 
-For the structured professional record, I keep a separate [final CV on Google Docs](https://docs.google.com/document/d/1FBIqVdW6fPONrZhg-0LZJi1PGfEMN7XxVwGB9D4SDZw/edit?usp=sharing). It is intentionally not repeated on this personal page.
+For the structured professional record, I keep a separate [official CV](https://docs.google.com/document/d/e/2PACX-1vST3UglmEsgl2SYctLW2VFs_vrJQ7D4ftVcLq7DklI_CmNSgNn1UicfV5AfvSVL2ataOO5l0K5y-15Y/pub). It is intentionally not repeated on this personal page.
 
 <p align="center">
   <img src="./assets/presentation-javafx-original.jpg" alt="Nik during a real JavaFX and Spring presentation" width="880">
