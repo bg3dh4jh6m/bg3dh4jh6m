@@ -10,10 +10,6 @@ I collaborate directly with business owners, managers, operations, product and d
 
 This is not a CV or a corporate brochure. It is also a personal record of my relationship with computers, learning, sharing knowledge and the people I met along the way.
 
-<p align="center">
-  <img src="./assets/presentation-classroom-original.jpg" alt="Nik presenting beside a real classroom screen" width="880">
-</p>
-
 ## A life around computers
 
 My connection with computers began long before they became my work. As a child I spent time in internet cafes and computer clubs. Later I played and experimented across the local network of a Gabrovo internet provider. In high school I ran a World of Warcraft server and servers for other games, mostly because I wanted to understand how everything connected and worked.
@@ -39,10 +35,6 @@ Most of that work has involved backend and full-stack development, APIs, integra
 I do not claim formal academic or pedagogical titles. **Tutor + Developer + Consultant** is the description that feels honest to me.
 
 The structured professional record is available through the official CV linked above. It is intentionally not repeated on this personal page.
-
-<p align="center">
-  <img src="./assets/presentation-javafx-original.jpg" alt="Nik during a real JavaFX and Spring presentation" width="880">
-</p>
 
 ## Personal note
 
