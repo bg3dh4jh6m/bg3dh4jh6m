@@ -1,4 +1,4 @@
-# NIKOLAY (NIK) NENKOV
+﻿# NIKOLAY (NIK) NENKOV
 
 ### Business Technology Consultant | Full-Stack Developer
 
@@ -6,7 +6,7 @@ I combine hands-on backend and full-stack delivery with business analysis, syste
 
 I collaborate directly with business owners, managers, operations, product and design, sales and marketing, suppliers and engineering teams—turning operational needs into clear technical decisions and maintainable software.
 
-[Greenwall Business Systems](https://greenwallbusiness.com/) · [Portfolio](https://greenwallbusiness.com/nik/) · [Work & Case Studies](https://greenwallbusiness.com/case-studies/) · [LinkedIn](https://www.linkedin.com/in/bg3dh4jh6m/) · [Official CV](https://docs.google.com/document/d/e/2PACX-1vST3UglmEsgl2SYctLW2VFs_vrJQ7D4ftVcLq7DklI_CmNSgNn1UicfV5AfvSVL2ataOO5l0K5y-15Y/pub) · [XING](https://www.xing.com/profile/Nik_Nenkov091625/web_profiles) · [Jobicy](https://jobicy.com/u/id76953)
+[Greenwall Business Systems](https://greenwallbusiness.com/) · [Portfolio](https://greenwallbusiness.com/nik/) · [Work & Case Studies](https://greenwallbusiness.com/case-studies/) · [LinkedIn](https://www.linkedin.com/in/n-nenkov/) · [Official CV](https://docs.google.com/document/d/e/2PACX-1vST3UglmEsgl2SYctLW2VFs_vrJQ7D4ftVcLq7DklI_CmNSgNn1UicfV5AfvSVL2ataOO5l0K5y-15Y/pub) · [XING](https://www.xing.com/profile/Nik_Nenkov091625/web_profiles) · [Jobicy](https://jobicy.com/u/id76953)
 
 This is not a CV or a corporate brochure. It is also a personal record of my relationship with computers, learning, sharing knowledge and the people I met along the way.
 
